@@ -1,3 +1,3 @@
-#AICTE-Internship-Potato-project
+##AICTE-Internship-Potato-project
 
 This project is about potato leaf detection
